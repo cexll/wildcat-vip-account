@@ -1,3 +1,10 @@
+-- 2023-11-22 
+
+死骗子 一天Github还挺活跃 
+
+<img width="1008" alt="image" src="https://github.com/cexll/wildcat-vip-account/assets/26520956/10055003-96af-4e9b-9fd8-ecc74492fdeb">
+
+
 # 在Github上面卖各种会员的项目希望兄弟们谨慎对待,我估计大多数都是一批人作案 甄别方法就是在支付界面打开F12查看支付二维码是不是每次都是一张图片
 
 # 哎其一月卡会员购买订单返回涨米为空, 微信也联系不到人 
